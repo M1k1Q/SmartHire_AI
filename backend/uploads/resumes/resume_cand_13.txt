@@ -1,0 +1,30 @@
+Candidate_013
+Email: candidate13@email.com | Phone: +1-555-6000
+
+SUMMARY
+Experienced Research Scientist with 1 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Mathematics — MIT (2023)
+GPA: 3.07/4.0
+
+EXPERIENCE
+Research Scientist — Meta (1 - 1 years)
+- Developed and maintained production systems using Agile
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 31%
+
+Data Analyst — Meta (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+GCP, Power BI, TypeScript, Collaboration, Logistic Regression, Team Leadership, Azure, Excel, REST APIs, Tableau, Model Evaluation, ETL Pipelines, Agile, Data Warehousing, PostgreSQL, Redis, Node.js, Statistical Analysis
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate
+
+PROJECTS
+- Sentiment Analysis Engine
+  Technologies: REST APIs, ETL Pipelines, Agile

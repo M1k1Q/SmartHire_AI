@@ -1,0 +1,30 @@
+DevOps Expert 2BE5
+Email: candidate2@email.com | Phone: +1-555-1200
+
+SUMMARY
+Experienced Research Scientist with 12 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+PhD Computer Science — University of California (2010)
+GPA: 3.14/4.0
+
+EXPERIENCE
+Research Scientist — Amazon (11 - 12 years)
+- Developed and maintained production systems using SVM
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 31%
+
+Data Scientist — Startup Hub (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+JavaScript, kubernetes, terraform, aws, Matplotlib, TypeScript, docker, SVM, Random Forest, PyTorch, GCP, Angular, Python, Deep Learning, Redis
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- Sentiment Analysis Engine
+  Technologies: Matplotlib, Deep Learning, SVM

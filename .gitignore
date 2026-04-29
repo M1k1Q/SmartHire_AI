@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+dist/
+build/
+.env
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# User request: exclude docs
+docs/

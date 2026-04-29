@@ -1,0 +1,30 @@
+Frontend Expert 96CD
+Email: candidate1@email.com | Phone: +1-555-7888
+
+SUMMARY
+Experienced ML Engineer with 9 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+PhD Computer Science — University of Toronto (2013)
+GPA: 3.93/4.0
+
+EXPERIENCE
+ML Engineer — Apple (7 - 9 years)
+- Developed and maintained production systems using REST APIs
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 49%
+
+Backend Developer — DataSystems Inc. (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+typescript, PostgreSQL, REST APIs, Matplotlib, Model Evaluation, html/css, next.js, BERT, Project Management, javascript, react
+
+CERTIFICATIONS
+- Scrum Master Certified
+
+PROJECTS
+- E-commerce Platform
+  Technologies: next.js, Project Management, typescript

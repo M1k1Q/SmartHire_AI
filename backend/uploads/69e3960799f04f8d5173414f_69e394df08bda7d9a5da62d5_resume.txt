@@ -1,0 +1,30 @@
+Frontend Expert 4E80
+Email: candidate0@email.com | Phone: +1-555-9379
+
+SUMMARY
+Experienced DevOps Engineer with 10 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+PhD Computer Science — Georgia Tech (2014)
+GPA: 3.26/4.0
+
+EXPERIENCE
+DevOps Engineer — CloudBase (8 - 10 years)
+- Developed and maintained production systems using Model Evaluation
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 26%
+
+Systems Architect — IBM (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+MongoDB, JavaScript, typescript, Model Evaluation, Rust, TypeScript, html/css, Django, TensorFlow, SQL, next.js, javascript, NumPy, react
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- Fraud Detection System
+  Technologies: html/css, MongoDB, TensorFlow

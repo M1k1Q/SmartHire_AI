@@ -1,0 +1,30 @@
+Candidate_018
+Email: candidate18@email.com | Phone: +1-555-8633
+
+SUMMARY
+Experienced Data Analyst with 11 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Computer Science — Carnegie Mellon University (2012)
+GPA: 2.87/4.0
+
+EXPERIENCE
+Data Analyst — Accenture (10 - 11 years)
+- Developed and maintained production systems using PyTorch
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 47%
+
+AI Engineer — Accenture (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Collaboration, Agile, NLP, Keras, Machine Learning, C++, Random Forest, Docker, PostgreSQL, Redis, Azure, AWS, PyTorch, Go, Angular, Vue, SQL, Linux
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- Real-time Chat Application
+  Technologies: PyTorch, Vue, Collaboration

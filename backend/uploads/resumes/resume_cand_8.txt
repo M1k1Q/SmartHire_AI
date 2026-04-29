@@ -1,0 +1,30 @@
+Candidate_008
+Email: candidate8@email.com | Phone: +1-555-3724
+
+SUMMARY
+Experienced Data Scientist with 8 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — IIT Bombay (2015)
+GPA: 3.38/4.0
+
+EXPERIENCE
+Data Scientist — Analytics Pro (8 - 8 years)
+- Developed and maintained production systems using ETL Pipelines
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 13%
+
+Backend Developer — Google (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Keras, Team Leadership, Computer Vision, Vue, Machine Learning, Tableau, ETL Pipelines, Hadoop
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- ML Pipeline Framework
+  Technologies: Keras, Vue, Computer Vision

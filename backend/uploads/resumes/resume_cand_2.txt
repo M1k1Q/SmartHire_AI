@@ -1,0 +1,30 @@
+Candidate_002
+Email: candidate2@email.com | Phone: +1-555-7216
+
+SUMMARY
+Experienced ML Engineer with 1 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — Harvard University (2022)
+GPA: 3.99/4.0
+
+EXPERIENCE
+ML Engineer — NeuralSoft (1 - 1 years)
+- Developed and maintained production systems using Team Leadership
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 13%
+
+Research Scientist — Meta (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Logistic Regression, Random Forest, REST APIs, PyTorch, Statistical Analysis, Team Leadership, Data Preprocessing, Feature Engineering
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- Sentiment Analysis Engine
+  Technologies: Team Leadership, PyTorch, REST APIs

@@ -1,0 +1,30 @@
+DevOps Expert 7414
+Email: candidate3@email.com | Phone: +1-555-7818
+
+SUMMARY
+Experienced Backend Developer with 1 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — Punjab University (2021)
+GPA: 3.52/4.0
+
+EXPERIENCE
+Backend Developer — Apple (1 - 1 years)
+- Developed and maintained production systems using Scrum
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 34%
+
+Data Scientist — Microsoft (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Angular, Tableau, Agile, Vue, Pandas, Transformers, Data Preprocessing, TypeScript, Scrum
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- ML Pipeline Framework
+  Technologies: Pandas, Data Preprocessing, Agile

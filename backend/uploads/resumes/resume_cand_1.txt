@@ -1,0 +1,30 @@
+Candidate_001
+Email: candidate1@email.com | Phone: +1-555-2139
+
+SUMMARY
+Experienced Systems Architect with 8 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — IIT Bombay (2016)
+GPA: 3.59/4.0
+
+EXPERIENCE
+Systems Architect — Analytics Pro (7 - 8 years)
+- Developed and maintained production systems using Django
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 24%
+
+Backend Developer — IBM (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Data Preprocessing, FastAPI, Django, XGBoost, Rust, GCP, Hadoop, Problem Solving, Matplotlib, MongoDB, Tableau, JavaScript, SVM, Deep Learning, PyTorch, React, Linux, Go
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- ML Pipeline Framework
+  Technologies: Matplotlib, PyTorch, JavaScript

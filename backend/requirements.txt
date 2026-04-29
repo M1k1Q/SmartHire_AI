@@ -1,0 +1,37 @@
+# Smart Recruitment Platform — Python Backend Dependencies (Python 3.13 compatible)
+# Install with: pip install -r requirements.txt
+
+# --- Web Framework ---
+flask>=3.0.0
+flask-pymongo>=2.3.0
+flask-jwt-extended>=4.6.0
+flask-cors>=4.0.0
+flask-bcrypt>=1.0.0
+
+# --- Database ---
+pymongo>=4.8.0
+
+# --- ML & NLP (Updated for Python 3.13) ---
+numpy>=2.1.0
+scikit-learn>=1.5.0
+pandas>=2.2.3
+scipy>=1.13.0
+nltk>=3.8.0
+spacy>=3.8.0
+pdfminer.six>=20231228
+python-docx>=1.1.0
+imbalanced-learn>=0.12.0
+xgboost>=2.1.0
+
+# --- Explainability ---
+shap>=0.46.0
+
+# --- Utilities ---
+python-dotenv>=1.0.0
+joblib>=1.4.0
+Werkzeug>=3.0.0
+
+# --- Production & Testing ---
+gunicorn>=22.0.0
+pytest>=8.0.0
+pytest-flask>=1.3.0

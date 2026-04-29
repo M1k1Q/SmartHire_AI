@@ -1,0 +1,30 @@
+Candidate_017
+Email: candidate17@email.com | Phone: +1-555-9270
+
+SUMMARY
+Experienced Research Scientist with 10 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — FAST-NUCES (2013)
+GPA: 3.80/4.0
+
+EXPERIENCE
+Research Scientist — IBM (8 - 10 years)
+- Developed and maintained production systems using Redis
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 20%
+
+Systems Architect — CloudBase (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Computer Vision, PostgreSQL, BigQuery, Redis, Tableau, Deep Learning
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- ML Pipeline Framework
+  Technologies: BigQuery, PostgreSQL, Deep Learning

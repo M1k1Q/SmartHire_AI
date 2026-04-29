@@ -1,0 +1,30 @@
+Frontend Expert 8802
+Email: candidate2@email.com | Phone: +1-555-6085
+
+SUMMARY
+Experienced Data Scientist with 12 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+PhD Computer Science — IIT Bombay (2012)
+GPA: 3.77/4.0
+
+EXPERIENCE
+Data Scientist — InnovateTech (12 - 12 years)
+- Developed and maintained production systems using Data Modeling
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 12%
+
+Backend Developer — IBM (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Data Modeling, Model Evaluation, Go, html/css, Communication, Docker, GraphQL, next.js, javascript, Azure, tailwind, react
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- ML Pipeline Framework
+  Technologies: Azure, Model Evaluation, next.js

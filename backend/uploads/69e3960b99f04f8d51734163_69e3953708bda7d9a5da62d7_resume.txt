@@ -1,0 +1,30 @@
+DevOps Expert DA18
+Email: candidate0@email.com | Phone: +1-555-9464
+
+SUMMARY
+Experienced AI Engineer with 9 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — University of California (2015)
+GPA: 2.90/4.0
+
+EXPERIENCE
+AI Engineer — NeuralSoft (7 - 9 years)
+- Developed and maintained production systems using docker
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 41%
+
+Software Engineer — Apple (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+MongoDB, kubernetes, terraform, aws, Agile, GraphQL, docker, Tableau, GCP, Git, Feature Engineering
+
+CERTIFICATIONS
+- Scrum Master Certified
+
+PROJECTS
+- Resume Parser
+  Technologies: Tableau, Feature Engineering, Git

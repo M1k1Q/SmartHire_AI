@@ -1,0 +1,30 @@
+Senior Expert 848A
+Email: candidate2@email.com | Phone: +1-555-8573
+
+SUMMARY
+Experienced Backend Developer with 5 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+PhD Computer Science — LUMS (2018)
+GPA: 3.12/4.0
+
+EXPERIENCE
+Backend Developer — Amazon (3 - 5 years)
+- Developed and maintained production systems using Redis
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 45%
+
+ML Engineer — DataSystems Inc. (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+transformers, AWS, nlp, Model Evaluation, FastAPI, Keras, machine learning, SVM, GCP, Git, BigQuery, Redis
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- Fraud Detection System
+  Technologies: Keras, transformers, Model Evaluation

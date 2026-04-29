@@ -1,0 +1,30 @@
+ML Expert 3265
+Email: candidate0@email.com | Phone: +1-555-8814
+
+SUMMARY
+Experienced Systems Architect with 10 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — University of Toronto (2014)
+GPA: 3.93/4.0
+
+EXPERIENCE
+Systems Architect — NeuralSoft (9 - 10 years)
+- Developed and maintained production systems using Spark
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 36%
+
+DevOps Engineer — Google (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Team Leadership, REST APIs, aws, Model Evaluation, TypeScript, pytorch, Spark, FastAPI, mlflow, Power BI, python
+
+CERTIFICATIONS
+- Scrum Master Certified
+
+PROJECTS
+- Fraud Detection System
+  Technologies: mlflow, Power BI, Model Evaluation

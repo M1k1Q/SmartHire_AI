@@ -1,0 +1,30 @@
+Candidate_009
+Email: candidate9@email.com | Phone: +1-555-2122
+
+SUMMARY
+Experienced Data Scientist with 7 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.E. Software Engineering — FAST-NUCES (2015)
+GPA: 2.88/4.0
+
+EXPERIENCE
+Data Scientist — Google (7 - 7 years)
+- Developed and maintained production systems using Collaboration
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 17%
+
+ML Engineer — DataSystems Inc. (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+BigQuery, Pandas, Hadoop, Agile, Vue, Flask, Docker, FastAPI, TypeScript, NumPy, Logistic Regression, PyTorch, Collaboration, Data Modeling, AWS, Project Management, Tableau, Data Warehousing
+
+CERTIFICATIONS
+- Scrum Master Certified
+
+PROJECTS
+- Resume Parser
+  Technologies: Pandas, Hadoop, Data Modeling

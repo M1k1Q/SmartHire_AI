@@ -1,0 +1,30 @@
+UI/UX Expert 29A2
+Email: candidate0@email.com | Phone: +1-555-2343
+
+SUMMARY
+Experienced Systems Architect with 10 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — Stanford University (2013)
+GPA: 3.59/4.0
+
+EXPERIENCE
+Systems Architect — Meta (8 - 10 years)
+- Developed and maintained production systems using Agile
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 30%
+
+Software Engineer — InnovateTech (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+adobe xd, AWS, React, PostgreSQL, Matplotlib, C++, ETL Pipelines, wireframing, Agile, Data Preprocessing, Git, Node.js, figma
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate
+
+PROJECTS
+- Resume Parser
+  Technologies: Git, Node.js, C++

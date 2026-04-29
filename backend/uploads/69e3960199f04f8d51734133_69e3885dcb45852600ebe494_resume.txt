@@ -1,0 +1,30 @@
+Senior Expert E62B
+Email: candidate1@email.com | Phone: +1-555-3045
+
+SUMMARY
+Experienced Research Scientist with 9 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Data Science — LUMS (2014)
+GPA: 2.89/4.0
+
+EXPERIENCE
+Research Scientist — CloudBase (8 - 9 years)
+- Developed and maintained production systems using python
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 33%
+
+AI Engineer — Google (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+transformers, nlp, pytorch, Django, machine learning, Flask, Random Forest, XGBoost, sql, python
+
+CERTIFICATIONS
+- Scrum Master Certified
+
+PROJECTS
+- Resume Parser
+  Technologies: nlp, transformers, Django

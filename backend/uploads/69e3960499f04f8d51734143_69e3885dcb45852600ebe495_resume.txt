@@ -1,0 +1,30 @@
+Full Expert 039F
+Email: candidate4@email.com | Phone: +1-555-7930
+
+SUMMARY
+Experienced Research Scientist with 0 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Data Science — University of Toronto (2022)
+GPA: 3.95/4.0
+
+EXPERIENCE
+Research Scientist — CloudBase (0 - 0 years)
+- Developed and maintained production systems using Problem Solving
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 22%
+
+Full Stack Developer — CloudBase (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Power BI, Agile, Problem Solving, GraphQL, ETL Pipelines, Bash, Data Warehousing, TypeScript, Node.js, Linux
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate
+
+PROJECTS
+- Resume Parser
+  Technologies: Power BI, Node.js, Linux

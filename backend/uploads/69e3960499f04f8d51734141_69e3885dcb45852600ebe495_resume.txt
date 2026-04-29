@@ -1,0 +1,30 @@
+Full Expert 2AFC
+Email: candidate3@email.com | Phone: +1-555-5563
+
+SUMMARY
+Experienced DevOps Engineer with 1 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — Carnegie Mellon University (2022)
+GPA: 3.10/4.0
+
+EXPERIENCE
+DevOps Engineer — TechCorp (1 - 1 years)
+- Developed and maintained production systems using PostgreSQL
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 45%
+
+ML Engineer — Amazon (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Flask, React, Tableau, Data Preprocessing, Project Management, ETL Pipelines, Rust, PostgreSQL
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- Sentiment Analysis Engine
+  Technologies: Flask, PostgreSQL, React

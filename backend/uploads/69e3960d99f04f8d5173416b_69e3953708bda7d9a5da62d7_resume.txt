@@ -1,0 +1,30 @@
+DevOps Expert F415
+Email: candidate4@email.com | Phone: +1-555-8699
+
+SUMMARY
+Experienced DevOps Engineer with 1 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Computer Science — FAST-NUCES (2022)
+GPA: 2.84/4.0
+
+EXPERIENCE
+DevOps Engineer — Amazon (0 - 1 years)
+- Developed and maintained production systems using Model Evaluation
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 39%
+
+Research Scientist — Google (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Flask, REST APIs, GraphQL, TensorFlow, Model Evaluation, Go, Node.js, PostgreSQL
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- Fraud Detection System
+  Technologies: TensorFlow, GraphQL, Go

@@ -1,0 +1,30 @@
+Candidate_012
+Email: candidate12@email.com | Phone: +1-555-4441
+
+SUMMARY
+Experienced Software Engineer with 2 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Data Science — MIT (2020)
+GPA: 3.10/4.0
+
+EXPERIENCE
+Software Engineer — IBM (2 - 2 years)
+- Developed and maintained production systems using Statistical Analysis
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 45%
+
+Data Analyst — CloudBase (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+MongoDB, TensorFlow, AWS, Data Modeling, Keras, Random Forest, GraphQL, Agile, Python, React, C++, Statistical Analysis, Vue, PyTorch, JavaScript, Git, NumPy, Team Leadership
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- Real-time Chat Application
+  Technologies: Keras, Agile, Random Forest

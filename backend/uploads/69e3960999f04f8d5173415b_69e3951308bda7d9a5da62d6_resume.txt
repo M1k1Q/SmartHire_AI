@@ -1,0 +1,30 @@
+ML Expert EA66
+Email: candidate1@email.com | Phone: +1-555-3223
+
+SUMMARY
+Experienced Data Scientist with 10 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — LUMS (2013)
+GPA: 3.02/4.0
+
+EXPERIENCE
+Data Scientist — Startup Hub (9 - 10 years)
+- Developed and maintained production systems using Java
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 30%
+
+DevOps Engineer — Google (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+aws, pytorch, Spark, BigQuery, SQL, Tableau, Java, mlflow, Data Preprocessing, Angular, BERT, PyTorch, Azure, Deep Learning, python
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- ML Pipeline Framework
+  Technologies: Tableau, python, Azure

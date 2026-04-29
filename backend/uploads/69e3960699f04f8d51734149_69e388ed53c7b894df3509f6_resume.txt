@@ -1,0 +1,30 @@
+UI/UX Expert 0E54
+Email: candidate2@email.com | Phone: +1-555-9004
+
+SUMMARY
+Experienced Full Stack Developer with 7 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Data Science — National University (2016)
+GPA: 3.89/4.0
+
+EXPERIENCE
+Full Stack Developer — Meta (7 - 7 years)
+- Developed and maintained production systems using Kubernetes
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 50%
+
+AI Engineer — Startup Hub (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+adobe xd, Kubernetes, user research, wireframing, PyTorch, Pandas, figma, prototyping
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- E-commerce Platform
+  Technologies: adobe xd, prototyping, user research

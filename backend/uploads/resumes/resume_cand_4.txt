@@ -1,0 +1,30 @@
+Candidate_004
+Email: candidate4@email.com | Phone: +1-555-5808
+
+SUMMARY
+Experienced Data Analyst with 11 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Data Science — FAST-NUCES (2012)
+GPA: 2.99/4.0
+
+EXPERIENCE
+Data Analyst — CloudBase (11 - 11 years)
+- Developed and maintained production systems using C++
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 42%
+
+Data Scientist — Startup Hub (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Rust, SQL, Kubernetes, AWS, Excel, Data Preprocessing, GraphQL, Matplotlib, C++, Linux, Data Warehousing, Team Leadership, Deep Learning, TensorFlow, MongoDB, Keras, Python, Problem Solving
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- Real-time Chat Application
+  Technologies: AWS, Linux, GraphQL

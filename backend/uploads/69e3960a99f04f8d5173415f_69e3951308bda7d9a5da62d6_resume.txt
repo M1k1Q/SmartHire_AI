@@ -1,0 +1,30 @@
+ML Expert F42B
+Email: candidate3@email.com | Phone: +1-555-2669
+
+SUMMARY
+Experienced Systems Architect with 3 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+PhD Computer Science — University of Toronto (2019)
+GPA: 3.73/4.0
+
+EXPERIENCE
+Systems Architect — Meta (1 - 3 years)
+- Developed and maintained production systems using Data Preprocessing
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 17%
+
+Backend Developer — Microsoft (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+SQL, AWS, BERT, FastAPI, NumPy, Java, Team Leadership, Kubernetes, Pandas, Data Preprocessing
+
+CERTIFICATIONS
+- Scrum Master Certified
+
+PROJECTS
+- Sentiment Analysis Engine
+  Technologies: Java, Pandas, Team Leadership

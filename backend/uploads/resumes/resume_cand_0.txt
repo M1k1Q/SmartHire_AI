@@ -1,0 +1,30 @@
+Candidate_000
+Email: candidate0@email.com | Phone: +1-555-7873
+
+SUMMARY
+Experienced Backend Developer with 1 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — FAST-NUCES (2023)
+GPA: 3.34/4.0
+
+EXPERIENCE
+Backend Developer — Google (0 - 1 years)
+- Developed and maintained production systems using SQL
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 20%
+
+AI Engineer — DataSystems Inc. (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+SQL, TypeScript, Keras, Computer Vision, Collaboration, Angular, Logistic Regression, Rust, Data Preprocessing, Communication, PyTorch, Go, NumPy, GraphQL, JavaScript, Java
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- E-commerce Platform
+  Technologies: Data Preprocessing, Keras, Computer Vision

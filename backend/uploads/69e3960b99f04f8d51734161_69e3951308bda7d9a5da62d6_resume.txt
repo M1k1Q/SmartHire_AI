@@ -1,0 +1,30 @@
+ML Expert 4744
+Email: candidate4@email.com | Phone: +1-555-9817
+
+SUMMARY
+Experienced AI Engineer with 3 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.E. Software Engineering — National University (2020)
+GPA: 3.36/4.0
+
+EXPERIENCE
+AI Engineer — Accenture (1 - 3 years)
+- Developed and maintained production systems using GraphQL
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 27%
+
+Full Stack Developer — Amazon (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Angular, Project Management, Data Preprocessing, Java, Hadoop, REST APIs, Power BI, Computer Vision, Rust, GraphQL, Git, Transformers, Spark
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate
+
+PROJECTS
+- Resume Parser
+  Technologies: Project Management, Hadoop, Computer Vision

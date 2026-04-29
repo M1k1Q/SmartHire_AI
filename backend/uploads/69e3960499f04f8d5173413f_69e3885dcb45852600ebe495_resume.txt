@@ -1,0 +1,30 @@
+Full Expert F9E0
+Email: candidate2@email.com | Phone: +1-555-4981
+
+SUMMARY
+Experienced Systems Architect with 7 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.E. Software Engineering — FAST-NUCES (2016)
+GPA: 3.77/4.0
+
+EXPERIENCE
+Systems Architect — NeuralSoft (7 - 7 years)
+- Developed and maintained production systems using rest apis
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 16%
+
+Research Scientist — InnovateTech (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Collaboration, rest apis, Model Evaluation, Keras, docker, Vue, NLP, Computer Vision, python
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- E-commerce Platform
+  Technologies: NLP, python, Keras

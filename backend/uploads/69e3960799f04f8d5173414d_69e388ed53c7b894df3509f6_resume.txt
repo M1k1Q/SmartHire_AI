@@ -1,0 +1,30 @@
+UI/UX Expert 00D3
+Email: candidate4@email.com | Phone: +1-555-1634
+
+SUMMARY
+Experienced Data Scientist with 5 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.E. Software Engineering — Punjab University (2018)
+GPA: 3.07/4.0
+
+EXPERIENCE
+Data Scientist — Apple (4 - 5 years)
+- Developed and maintained production systems using REST APIs
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 29%
+
+DevOps Engineer — Amazon (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Kubernetes, NLP, AWS, GCP, Data Modeling, REST APIs, Java, Django, Logistic Regression, Azure, Excel, Problem Solving, Tableau, Model Evaluation
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- Resume Parser
+  Technologies: Kubernetes, Excel, GCP

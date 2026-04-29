@@ -1,0 +1,30 @@
+Candidate_019
+Email: candidate19@email.com | Phone: +1-555-9751
+
+SUMMARY
+Experienced Research Scientist with 5 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Mathematics — Punjab University (2019)
+GPA: 3.89/4.0
+
+EXPERIENCE
+Research Scientist — NeuralSoft (3 - 5 years)
+- Developed and maintained production systems using Java
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 11%
+
+ML Engineer — Amazon (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Matplotlib, SQL, Spark, Machine Learning, Computer Vision, SQL, Redis, GraphQL, Agile, Java, Linux
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- Fraud Detection System
+  Technologies: Redis, Spark, GraphQL

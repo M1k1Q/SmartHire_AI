@@ -1,0 +1,30 @@
+Full Expert 390B
+Email: candidate0@email.com | Phone: +1-555-6947
+
+SUMMARY
+Experienced Software Engineer with 12 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — MIT (2011)
+GPA: 3.09/4.0
+
+EXPERIENCE
+Software Engineer — IBM (12 - 12 years)
+- Developed and maintained production systems using Project Management
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 15%
+
+Data Scientist — TechCorp (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Bash, rest apis, Matplotlib, FastAPI, SQL, docker, Vue, PyTorch, flask, Project Management, javascript, Node.js, XGBoost, Git
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- Fraud Detection System
+  Technologies: PyTorch, rest apis, flask

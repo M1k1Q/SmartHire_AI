@@ -1,0 +1,30 @@
+Frontend Expert D79C
+Email: candidate3@email.com | Phone: +1-555-1822
+
+SUMMARY
+Experienced AI Engineer with 3 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.E. Software Engineering — Carnegie Mellon University (2019)
+GPA: 3.10/4.0
+
+EXPERIENCE
+AI Engineer — CloudBase (3 - 3 years)
+- Developed and maintained production systems using Statistical Analysis
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 18%
+
+Research Scientist — NeuralSoft (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Linux, SQL, Scrum, Tableau, PostgreSQL, Vue, Feature Engineering, Statistical Analysis, Python, Data Warehousing, XGBoost, ETL Pipelines, Critical Thinking, Rust
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- Fraud Detection System
+  Technologies: Python, Rust, Data Warehousing

@@ -1,0 +1,30 @@
+Candidate_016
+Email: candidate16@email.com | Phone: +1-555-7291
+
+SUMMARY
+Experienced Systems Architect with 7 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Computer Science — Punjab University (2016)
+GPA: 3.28/4.0
+
+EXPERIENCE
+Systems Architect — TechCorp (7 - 7 years)
+- Developed and maintained production systems using Azure
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 16%
+
+Backend Developer — Accenture (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Azure, Node.js, Pandas, Model Evaluation, Go, Power BI, Communication, XGBoost, PostgreSQL, Data Preprocessing, Kubernetes, SQL, Tableau, Flask, Vue, Java, JavaScript, BigQuery
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- Resume Parser
+  Technologies: Power BI, JavaScript, Vue

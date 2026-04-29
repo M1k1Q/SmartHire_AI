@@ -1,0 +1,30 @@
+Senior Expert A331
+Email: candidate4@email.com | Phone: +1-555-8668
+
+SUMMARY
+Experienced DevOps Engineer with 5 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — University of Toronto (2017)
+GPA: 3.10/4.0
+
+EXPERIENCE
+DevOps Engineer — Microsoft (3 - 5 years)
+- Developed and maintained production systems using Critical Thinking
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 17%
+
+Systems Architect — Accenture (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Critical Thinking, Scrum, Django, Rust, ETL Pipelines, React, Vue, Transformers, Node.js, Excel
+
+CERTIFICATIONS
+- Scrum Master Certified
+
+PROJECTS
+- E-commerce Platform
+  Technologies: React, Scrum, ETL Pipelines

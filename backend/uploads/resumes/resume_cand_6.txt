@@ -1,0 +1,30 @@
+Candidate_006
+Email: candidate6@email.com | Phone: +1-555-2163
+
+SUMMARY
+Experienced Backend Developer with 1 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — LUMS (2021)
+GPA: 3.56/4.0
+
+EXPERIENCE
+Backend Developer — Meta (1 - 1 years)
+- Developed and maintained production systems using GraphQL
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 12%
+
+Software Engineer — InnovateTech (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Hadoop, GraphQL, Bash, BERT, Project Management, Model Evaluation, Feature Engineering, Git, Machine Learning, Data Warehousing, TensorFlow, BigQuery, React, PostgreSQL, SQL
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate
+
+PROJECTS
+- Sentiment Analysis Engine
+  Technologies: Machine Learning, BERT, Project Management

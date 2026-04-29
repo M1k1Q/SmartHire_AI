@@ -1,0 +1,30 @@
+Frontend Expert F355
+Email: candidate4@email.com | Phone: +1-555-8206
+
+SUMMARY
+Experienced Backend Developer with 5 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — University of California (2019)
+GPA: 3.66/4.0
+
+EXPERIENCE
+Backend Developer — TechCorp (5 - 5 years)
+- Developed and maintained production systems using Scrum
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 31%
+
+Full Stack Developer — Startup Hub (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Data Modeling, Project Management, Hadoop, Data Warehousing, Scrum, Node.js, Logistic Regression, ETL Pipelines, NLP, Machine Learning, MongoDB, XGBoost, PostgreSQL
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate
+
+PROJECTS
+- Real-time Chat Application
+  Technologies: Project Management, Hadoop, XGBoost

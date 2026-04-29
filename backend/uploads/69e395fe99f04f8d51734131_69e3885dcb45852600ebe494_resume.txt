@@ -1,0 +1,30 @@
+Senior Expert 6820
+Email: candidate0@email.com | Phone: +1-555-1434
+
+SUMMARY
+Experienced AI Engineer with 4 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Computer Science — MIT (2018)
+GPA: 3.04/4.0
+
+EXPERIENCE
+AI Engineer — Meta (2 - 4 years)
+- Developed and maintained production systems using python
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 36%
+
+Systems Architect — Meta (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+nlp, pytorch, FastAPI, Django, GraphQL, Machine Learning, Redis, NumPy, python
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- ML Pipeline Framework
+  Technologies: GraphQL, nlp, Redis

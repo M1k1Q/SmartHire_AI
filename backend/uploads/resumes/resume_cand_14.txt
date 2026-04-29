@@ -1,0 +1,30 @@
+Candidate_014
+Email: candidate14@email.com | Phone: +1-555-8144
+
+SUMMARY
+Experienced Full Stack Developer with 9 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Mathematics — Stanford University (2015)
+GPA: 3.42/4.0
+
+EXPERIENCE
+Full Stack Developer — InnovateTech (7 - 9 years)
+- Developed and maintained production systems using MongoDB
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 33%
+
+Software Engineer — Meta (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Model Evaluation, TypeScript, SQL, TensorFlow, Django, NumPy, MongoDB, JavaScript, Rust, Matplotlib, GraphQL, GCP, SVM, Excel, AWS, Data Modeling
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- Sentiment Analysis Engine
+  Technologies: GraphQL, Matplotlib, NumPy

@@ -1,0 +1,30 @@
+Candidate_011
+Email: candidate11@email.com | Phone: +1-555-9004
+
+SUMMARY
+Experienced Full Stack Developer with 4 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+PhD Computer Science — Carnegie Mellon University (2019)
+GPA: 3.89/4.0
+
+EXPERIENCE
+Full Stack Developer — IBM (4 - 4 years)
+- Developed and maintained production systems using Java
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 50%
+
+AI Engineer — Meta (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Matplotlib, Java, Collaboration, FastAPI, Communication, Data Modeling, Angular, MongoDB, React, Problem Solving, Rust, Logistic Regression, Keras, Vue
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- E-commerce Platform
+  Technologies: Matplotlib, Vue, Data Modeling

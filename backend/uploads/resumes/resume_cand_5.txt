@@ -1,0 +1,30 @@
+Candidate_005
+Email: candidate5@email.com | Phone: +1-555-2290
+
+SUMMARY
+Experienced Backend Developer with 5 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Data Science — Punjab University (2019)
+GPA: 3.68/4.0
+
+EXPERIENCE
+Backend Developer — Meta (5 - 5 years)
+- Developed and maintained production systems using Python
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 18%
+
+Systems Architect — Google (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Logistic Regression, AWS, Python, Feature Engineering, Computer Vision, Java, React, Team Leadership
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- Real-time Chat Application
+  Technologies: Python, Team Leadership, Computer Vision

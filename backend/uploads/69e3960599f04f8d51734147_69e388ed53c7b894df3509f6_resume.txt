@@ -1,0 +1,30 @@
+UI/UX Expert 8BFE
+Email: candidate1@email.com | Phone: +1-555-6718
+
+SUMMARY
+Experienced Full Stack Developer with 5 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — Stanford University (2019)
+GPA: 3.86/4.0
+
+EXPERIENCE
+Full Stack Developer — Meta (4 - 5 years)
+- Developed and maintained production systems using Java
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 20%
+
+ML Engineer — DataSystems Inc. (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+adobe xd, user research, Transformers, wireframing, Java, Vue, BERT, BigQuery, Pandas, figma, prototyping
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- Real-time Chat Application
+  Technologies: Java, figma, Pandas

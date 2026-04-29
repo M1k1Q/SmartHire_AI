@@ -1,0 +1,30 @@
+Candidate_010
+Email: candidate10@email.com | Phone: +1-555-9808
+
+SUMMARY
+Experienced Data Scientist with 12 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Mathematics — MIT (2012)
+GPA: 3.41/4.0
+
+EXPERIENCE
+Data Scientist — InnovateTech (12 - 12 years)
+- Developed and maintained production systems using Agile
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 14%
+
+Data Scientist — InnovateTech (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Collaboration, Transformers, TensorFlow, REST APIs, Model Evaluation, Random Forest, AWS, PostgreSQL, MongoDB, Bash, Angular, Agile, Feature Engineering, Kubernetes, Deep Learning, Communication
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- E-commerce Platform
+  Technologies: Bash, TensorFlow, PostgreSQL

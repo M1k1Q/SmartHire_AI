@@ -1,0 +1,30 @@
+ML Expert D815
+Email: candidate2@email.com | Phone: +1-555-4908
+
+SUMMARY
+Experienced Systems Architect with 4 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.E. Software Engineering — Carnegie Mellon University (2020)
+GPA: 3.37/4.0
+
+EXPERIENCE
+Systems Architect — Analytics Pro (4 - 4 years)
+- Developed and maintained production systems using Machine Learning
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 23%
+
+ML Engineer — Google (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+JavaScript, Collaboration, aws, Rust, C++, pytorch, SQL, Agile, mlflow, Machine Learning, XGBoost, Feature Engineering, python, Statistical Analysis
+
+CERTIFICATIONS
+- Python Institute PCEP
+
+PROJECTS
+- Fraud Detection System
+  Technologies: C++, python, pytorch

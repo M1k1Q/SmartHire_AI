@@ -1,0 +1,30 @@
+DevOps Expert BE5D
+Email: candidate1@email.com | Phone: +1-555-6023
+
+SUMMARY
+Experienced Research Scientist with 10 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+M.Sc. Artificial Intelligence — National University (2013)
+GPA: 3.08/4.0
+
+EXPERIENCE
+Research Scientist — IBM (8 - 10 years)
+- Developed and maintained production systems using Communication
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 30%
+
+Full Stack Developer — IBM (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Logistic Regression, kubernetes, terraform, Communication, docker, BERT, Computer Vision, Statistical Analysis
+
+CERTIFICATIONS
+- AWS Certified Developer
+
+PROJECTS
+- Fraud Detection System
+  Technologies: terraform, kubernetes, Computer Vision

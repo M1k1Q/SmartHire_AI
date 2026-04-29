@@ -1,0 +1,30 @@
+Candidate_007
+Email: candidate7@email.com | Phone: +1-555-7596
+
+SUMMARY
+Experienced Data Scientist with 6 years of experience in software development
+and data engineering. Passionate about building scalable systems and ML solutions.
+
+EDUCATION
+B.Sc. Computer Science — National University (2016)
+GPA: 3.21/4.0
+
+EXPERIENCE
+Data Scientist — Startup Hub (6 - 6 years)
+- Developed and maintained production systems using Tableau
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Improved system performance by 22%
+
+Software Engineer — Startup Hub (Internship / Junior Role)
+- Built REST APIs and integrated third-party services
+- Worked on data pipelines and reporting dashboards
+
+TECHNICAL SKILLS
+Agile, GraphQL, MongoDB, Communication, PostgreSQL, Excel, NLP, Tableau, REST APIs, Flask, Rust, Data Modeling, Model Evaluation, Critical Thinking, GCP, Spark
+
+CERTIFICATIONS
+- Google Cloud Professional
+
+PROJECTS
+- Real-time Chat Application
+  Technologies: GCP, MongoDB, NLP

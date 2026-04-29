@@ -1,0 +1,86 @@
+{
+  "name": "classifier",
+  "version": 2,
+  "filename": "classifier_v2.pkl",
+  "path": "ml_models\\classifier_v2.pkl",
+  "trained_at": "2026-04-29T17:36:49.888571+00:00",
+  "metrics": {
+    "accuracy": 0.9167,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1_score": 0.6667,
+    "roc_auc": 0.8,
+    "confusion_matrix": [
+      [
+        10,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        0.0,
+        0.3,
+        0.5,
+        0.7,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        0.5,
+        0.5,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "classification_report": {
+      "0": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "f1-score": 0.9523809523809523,
+        "support": 10.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 2.0
+      },
+      "accuracy": 0.9166666666666666,
+      "macro avg": {
+        "precision": 0.9545454545454546,
+        "recall": 0.75,
+        "f1-score": 0.8095238095238095,
+        "support": 12.0
+      },
+      "weighted avg": {
+        "precision": 0.9242424242424242,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9047619047619048,
+        "support": 12.0
+      }
+    }
+  },
+  "cv": {
+    "cv_folds": 5,
+    "accuracy": {
+      "mean": 0.8136,
+      "std": 0.0324
+    },
+    "f1_score": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "roc_auc": {
+      "mean": 0.7607,
+      "std": 0.1705
+    }
+  },
+  "best_model": "random_forest",
+  "n_samples": 59
+}

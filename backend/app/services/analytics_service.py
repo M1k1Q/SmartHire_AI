@@ -51,6 +51,7 @@ def get_dashboard_stats(db) -> Dict:
             job = db.jobs.find_one({"_id": __import__("bson").ObjectId(app["job_id"])}, {"title": 1})
             recent.append({
                 "id": str(app["_id"]),
+                "job_id": str(app["job_id"]),
                 "candidate_name": user["name"] if user else "Unknown",
                 "job_title": job["title"] if job else "Unknown",
                 "prediction": app.get("prediction", "Pending"),

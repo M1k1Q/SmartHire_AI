@@ -1,7 +1,4 @@
-/* =========================================================
-   SmartHire AI — Global Design System
-   Dark glassmorphism aesthetic with vibrant accent colors
-   ========================================================= */
+
 
 :root {
   /* --- Color Palette --- */
@@ -85,9 +82,7 @@ input, textarea, select { font-family: inherit; }
 ::-webkit-scrollbar-track { background: var(--bg-secondary); }
 ::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 3px; }
 
-/* =========================================================
-   Layout
-   ========================================================= */
+
 .app-layout {
   display: flex;
   min-height: 100vh;
@@ -106,9 +101,7 @@ input, textarea, select { font-family: inherit; }
   max-width: 1400px;
 }
 
-/* =========================================================
-   Glass Card
-   ========================================================= */
+
 .card {
   background: var(--bg-card);
   border: 1px solid var(--border);
@@ -137,9 +130,7 @@ input, textarea, select { font-family: inherit; }
   color: var(--text-primary);
 }
 
-/* =========================================================
-   Buttons
-   ========================================================= */
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -188,9 +179,7 @@ input, textarea, select { font-family: inherit; }
 .btn-icon { padding: 8px; border-radius: var(--radius-sm); }
 .btn-full { width: 100%; }
 
-/* =========================================================
-   Form Elements
-   ========================================================= */
+
 .form-group { margin-bottom: 18px; }
 .form-label {
   display: block;
@@ -229,9 +218,7 @@ select.form-control option {
 }
 textarea.form-control { resize: vertical; min-height: 100px; }
 
-/* =========================================================
-   Badges & Tags
-   ========================================================= */
+
 .badge {
   display: inline-flex;
   align-items: center;
@@ -258,9 +245,7 @@ textarea.form-control { resize: vertical; min-height: 100px; }
   color: var(--accent-light);
 }
 
-/* =========================================================
-   Stats / Metric Cards
-   ========================================================= */
+
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -311,9 +296,7 @@ textarea.form-control { resize: vertical; min-height: 100px; }
   opacity: 0.6;
 }
 
-/* =========================================================
-   Table
-   ========================================================= */
+
 .table-container {
   overflow-x: auto;
   border-radius: var(--radius-md);
@@ -343,9 +326,7 @@ td {
 tr:hover td { background: rgba(255,255,255,0.03); }
 tr:last-child td { border-bottom: none; }
 
-/* =========================================================
-   Progress Bar
-   ========================================================= */
+
 .progress-bar {
   height: 6px;
   background: rgba(255,255,255,0.08);
@@ -359,9 +340,7 @@ tr:last-child td { border-bottom: none; }
   transition: width 0.8s cubic-bezier(0.4,0,0.2,1);
 }
 
-/* =========================================================
-   Divider / Section Title
-   ========================================================= */
+
 .section-header {
   display: flex;
   align-items: center;
@@ -384,9 +363,7 @@ tr:last-child td { border-bottom: none; }
   margin: 24px 0;
 }
 
-/* =========================================================
-   Loading / Spinner
-   ========================================================= */
+
 .spinner {
   width: 36px; height: 36px;
   border: 3px solid rgba(124,58,237,0.2);
@@ -406,9 +383,7 @@ tr:last-child td { border-bottom: none; }
   color: var(--text-secondary);
 }
 
-/* =========================================================
-   Empty State
-   ========================================================= */
+
 .empty-state {
   display: flex;
   flex-direction: column;
@@ -422,9 +397,7 @@ tr:last-child td { border-bottom: none; }
 .empty-state-icon { color: var(--text-muted); margin-bottom: 8px; }
 .empty-state h3 { color: var(--text-primary); }
 
-/* =========================================================
-   Animations
-   ========================================================= */
+
 @keyframes fadeInUp {
   from { opacity: 0; transform: translateY(20px); }
   to   { opacity: 1; transform: translateY(0); }
@@ -448,9 +421,7 @@ tr:last-child td { border-bottom: none; }
 /* Modal scroll-lock */
 body.modal-open { overflow: hidden; }
 
-/* =========================================================
-   Gradient Text
-   ========================================================= */
+
 .gradient-text {
   background: var(--gradient-main);
   -webkit-background-clip: text;
@@ -458,9 +429,7 @@ body.modal-open { overflow: hidden; }
   background-clip: text;
 }
 
-/* =========================================================
-   Responsive
-   ========================================================= */
+
 @media (max-width: 768px) {
   .main-content { margin-left: 0; }
   .page-content { padding: 16px; }

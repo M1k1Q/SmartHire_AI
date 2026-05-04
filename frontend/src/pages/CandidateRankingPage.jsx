@@ -10,7 +10,7 @@ import {
 import toast from 'react-hot-toast';
 import ScoreBadge from '../components/ScoreBadge';
 
-/* ─── Candidate Detail Modal ─────────────────────────────── */
+
 function CandidateModal({ app, index, onClose, onUpdateStatus }) {
   if (!app) return null;
 
@@ -188,7 +188,7 @@ function CandidateModal({ app, index, onClose, onUpdateStatus }) {
   );
 }
 
-/* ─── Main Page ──────────────────────────────────────────── */
+
 export default function CandidateRankingPage() {
   const { jobId } = useParams();
   const [data, setData] = useState(null);
@@ -453,7 +453,7 @@ export default function CandidateRankingPage() {
   );
 }
 
-/* ─── Modal Styles ───────────────────────────────────────── */
+
 const overlayStyle = {
   position:'fixed', inset:0, zIndex:1000,
   background:'rgba(0,0,0,0.75)', backdropFilter:'blur(8px)',

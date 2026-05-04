@@ -1,13 +1,4 @@
-"""
-routes/applications.py — Resume upload, application submission, and ranking endpoints.
 
-Routes:
-  POST  /api/applications               — Candidate: apply to a job (multipart upload)
-  GET   /api/applications/my            — Candidate: view own applications
-  GET   /api/applications/job/<job_id>  — HR: view ranked candidates for a job
-  PUT   /api/applications/<id>/status   — HR: update application status
-  GET   /api/applications/<id>          — HR/Candidate: view single application detail
-"""
 import os
 from flask import Blueprint, request, jsonify, current_app
 from bson import ObjectId

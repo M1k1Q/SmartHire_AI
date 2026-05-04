@@ -88,7 +88,7 @@ export default function CandidateDashboard() {
       </div>
 
       <div style={layoutGridStyle}>
-        {/* Left Column: Jobs */}
+
         <div style={{ gridColumn: 'span 2' }}>
           <div className="card" style={{ marginBottom: 24, padding: '16px 24px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
@@ -157,7 +157,7 @@ export default function CandidateDashboard() {
           </div>
         </div>
 
-        {/* Right Column: Status */}
+
         <div>
           <div className="card">
             <div className="card-header">
@@ -190,7 +190,7 @@ export default function CandidateDashboard() {
         </div>
       </div>
 
-      {/* Job Detail Modal */}
+
       {viewingJob && (
         <div style={modalOverlayStyle} onClick={() => setViewingJob(null)}>
           <div className="card animate-fade-up" style={{ ...modalContentStyle, maxWidth: '650px' }} onClick={e => e.stopPropagation()}>
@@ -251,7 +251,7 @@ export default function CandidateDashboard() {
         </div>
       )}
 
-      {/* Apply Modal */}
+
       {selectedJob && (
         <div style={modalOverlayStyle}>
           <div className="card animate-fade-up" style={modalContentStyle}>

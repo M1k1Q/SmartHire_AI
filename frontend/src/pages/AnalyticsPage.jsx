@@ -149,7 +149,6 @@ export default function AnalyticsPage() {
             />
           </div>
 
-          {/* Metrics Card */}
           <div className="card">
             <div className="card-header">
               <h3 className="card-title">

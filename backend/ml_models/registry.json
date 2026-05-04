@@ -753,6 +753,190 @@
       },
       "best_model": "gradient_boosting",
       "n_samples": 60
+    },
+    {
+      "name": "vectorizer",
+      "version": 9,
+      "filename": "vectorizer_v9.pkl",
+      "path": "ml_models\\vectorizer_v9.pkl",
+      "trained_at": "2026-05-04T18:13:09.295648+00:00",
+      "n_documents": 58
+    },
+    {
+      "name": "classifier",
+      "version": 9,
+      "filename": "classifier_v9.pkl",
+      "path": "ml_models\\classifier_v9.pkl",
+      "trained_at": "2026-05-04T18:13:09.422007+00:00",
+      "metrics": {
+        "accuracy": 0.8333,
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1_score": 0.5,
+        "roc_auc": 0.675,
+        "confusion_matrix": [
+          [
+            9,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.1,
+            0.1,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.9,
+            "recall": 0.9,
+            "f1-score": 0.9,
+            "support": 10.0
+          },
+          "1": {
+            "precision": 0.5,
+            "recall": 0.5,
+            "f1-score": 0.5,
+            "support": 2.0
+          },
+          "accuracy": 0.8333333333333334,
+          "macro avg": {
+            "precision": 0.7,
+            "recall": 0.7,
+            "f1-score": 0.7,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.8333333333333334,
+            "recall": 0.8333333333333334,
+            "f1-score": 0.8333333333333334,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.8985,
+          "std": 0.062
+        },
+        "f1_score": {
+          "mean": 0.7333,
+          "std": 0.1333
+        },
+        "roc_auc": {
+          "mean": 0.9074,
+          "std": 0.0892
+        }
+      },
+      "best_model": "gradient_boosting",
+      "n_samples": 58
+    },
+    {
+      "name": "vectorizer",
+      "version": 10,
+      "filename": "vectorizer_v10.pkl",
+      "path": "ml_models\\vectorizer_v10.pkl",
+      "trained_at": "2026-05-04T18:18:53.482086+00:00",
+      "n_documents": 59
+    },
+    {
+      "name": "classifier",
+      "version": 10,
+      "filename": "classifier_v10.pkl",
+      "path": "ml_models\\classifier_v10.pkl",
+      "trained_at": "2026-05-04T18:18:53.545496+00:00",
+      "metrics": {
+        "accuracy": 0.8333,
+        "precision": 1.0,
+        "recall": 0.3333,
+        "f1_score": 0.5,
+        "roc_auc": 0.7407,
+        "confusion_matrix": [
+          [
+            9,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.0,
+            0.1111111111111111,
+            0.1111111111111111,
+            0.3333333333333333,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.3333333333333333,
+            0.3333333333333333,
+            0.6666666666666666,
+            0.6666666666666666,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.8181818181818182,
+            "recall": 1.0,
+            "f1-score": 0.9,
+            "support": 9.0
+          },
+          "1": {
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.5,
+            "support": 3.0
+          },
+          "accuracy": 0.8333333333333334,
+          "macro avg": {
+            "precision": 0.9090909090909092,
+            "recall": 0.6666666666666666,
+            "f1-score": 0.7,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.8636363636363636,
+            "recall": 0.8333333333333334,
+            "f1-score": 0.7999999999999999,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.847,
+          "std": 0.0353
+        },
+        "f1_score": {
+          "mean": 0.4714,
+          "std": 0.2733
+        },
+        "roc_auc": {
+          "mean": 0.9344,
+          "std": 0.0508
+        }
+      },
+      "best_model": "gradient_boosting",
+      "n_samples": 59
     }
   ]
 }

@@ -19,3 +19,14 @@ env/
 
 # User request: exclude docs
 docs/
+
+# Test results and reports
+backend/scripts/*.json
+backend/scripts/*_results.md
+*.md_results
+test_results.md
+candidate_audit_report.md
+
+# ML Assets & Uploads
+backend/ml_models/
+backend/uploads/

@@ -193,3 +193,15 @@ def get_application(app_id):
         raise AuthorizationError("You can only view your own applications.")
 
     return jsonify({"application": serialize_application(app_doc, include_resume_text=True)}), 200
+
+@applications_bp.route("/<app_id>", methods=["DELETE"])
+@require_role("hr")
+def delete_application(app_id):
+    """HR deletes an application to clear up the screen."""
+    validate_object_id(app_id, "app_id")
+    app_doc = mongo.db.applications.find_one({"_id": ObjectId(app_id)})
+    if not app_doc:
+        raise NotFoundError(f"Application {app_id} not found.")
+
+    mongo.db.applications.delete_one({"_id": ObjectId(app_id)})
+    return jsonify({"message": "Application removed successfully."}), 200

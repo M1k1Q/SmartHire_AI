@@ -191,6 +191,568 @@
       },
       "best_model": "random_forest",
       "n_samples": 59
+    },
+    {
+      "name": "vectorizer",
+      "version": 3,
+      "filename": "vectorizer_v3.pkl",
+      "path": "ml_models\\vectorizer_v3.pkl",
+      "trained_at": "2026-05-04T13:57:52.971751+00:00",
+      "n_documents": 60
+    },
+    {
+      "name": "classifier",
+      "version": 3,
+      "filename": "classifier_v3.pkl",
+      "path": "ml_models\\classifier_v3.pkl",
+      "trained_at": "2026-05-04T13:57:53.103606+00:00",
+      "metrics": {
+        "accuracy": 0.75,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "roc_auc": 0.75,
+        "confusion_matrix": [
+          [
+            9,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.1,
+            0.2,
+            0.2,
+            0.3,
+            0.3,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.0,
+            0.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.8181818181818182,
+            "recall": 0.9,
+            "f1-score": 0.8571428571428571,
+            "support": 10.0
+          },
+          "1": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+          },
+          "accuracy": 0.75,
+          "macro avg": {
+            "precision": 0.4090909090909091,
+            "recall": 0.45,
+            "f1-score": 0.42857142857142855,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.6818181818181818,
+            "recall": 0.75,
+            "f1-score": 0.7142857142857143,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.8,
+          "std": 0.085
+        },
+        "f1_score": {
+          "mean": 0.2333,
+          "std": 0.2906
+        },
+        "roc_auc": {
+          "mean": 0.87,
+          "std": 0.0927
+        }
+      },
+      "best_model": "logistic_regression",
+      "n_samples": 60
+    },
+    {
+      "name": "vectorizer",
+      "version": 4,
+      "filename": "vectorizer_v4.pkl",
+      "path": "ml_models\\vectorizer_v4.pkl",
+      "trained_at": "2026-05-04T13:58:17.237323+00:00",
+      "n_documents": 60
+    },
+    {
+      "name": "classifier",
+      "version": 4,
+      "filename": "classifier_v4.pkl",
+      "path": "ml_models\\classifier_v4.pkl",
+      "trained_at": "2026-05-04T13:58:17.257243+00:00",
+      "metrics": {
+        "accuracy": 0.75,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "roc_auc": 0.75,
+        "confusion_matrix": [
+          [
+            9,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.1,
+            0.2,
+            0.2,
+            0.3,
+            0.3,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.0,
+            0.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.8181818181818182,
+            "recall": 0.9,
+            "f1-score": 0.8571428571428571,
+            "support": 10.0
+          },
+          "1": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+          },
+          "accuracy": 0.75,
+          "macro avg": {
+            "precision": 0.4090909090909091,
+            "recall": 0.45,
+            "f1-score": 0.42857142857142855,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.6818181818181818,
+            "recall": 0.75,
+            "f1-score": 0.7142857142857143,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.8,
+          "std": 0.085
+        },
+        "f1_score": {
+          "mean": 0.2333,
+          "std": 0.2906
+        },
+        "roc_auc": {
+          "mean": 0.87,
+          "std": 0.0927
+        }
+      },
+      "best_model": "logistic_regression",
+      "n_samples": 60
+    },
+    {
+      "name": "vectorizer",
+      "version": 5,
+      "filename": "vectorizer_v5.pkl",
+      "path": "ml_models\\vectorizer_v5.pkl",
+      "trained_at": "2026-05-04T14:50:36.987194+00:00",
+      "n_documents": 59
+    },
+    {
+      "name": "classifier",
+      "version": 5,
+      "filename": "classifier_v5.pkl",
+      "path": "ml_models\\classifier_v5.pkl",
+      "trained_at": "2026-05-04T14:50:37.014984+00:00",
+      "metrics": {
+        "accuracy": 0.9167,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1_score": 0.6667,
+        "roc_auc": 0.85,
+        "confusion_matrix": [
+          [
+            10,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.0,
+            0.3,
+            0.3,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "f1-score": 0.9523809523809523,
+            "support": 10.0
+          },
+          "1": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1-score": 0.6666666666666666,
+            "support": 2.0
+          },
+          "accuracy": 0.9166666666666666,
+          "macro avg": {
+            "precision": 0.9545454545454546,
+            "recall": 0.75,
+            "f1-score": 0.8095238095238095,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.9242424242424242,
+            "recall": 0.9166666666666666,
+            "f1-score": 0.9047619047619048,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.8136,
+          "std": 0.0324
+        },
+        "f1_score": {
+          "mean": 0.0,
+          "std": 0.0
+        },
+        "roc_auc": {
+          "mean": 0.8959,
+          "std": 0.077
+        }
+      },
+      "best_model": "logistic_regression",
+      "n_samples": 59
+    },
+    {
+      "name": "vectorizer",
+      "version": 6,
+      "filename": "vectorizer_v6.pkl",
+      "path": "ml_models\\vectorizer_v6.pkl",
+      "trained_at": "2026-05-04T14:58:46.161561+00:00",
+      "n_documents": 59
+    },
+    {
+      "name": "classifier",
+      "version": 6,
+      "filename": "classifier_v6.pkl",
+      "path": "ml_models\\classifier_v6.pkl",
+      "trained_at": "2026-05-04T14:58:46.186904+00:00",
+      "metrics": {
+        "accuracy": 0.9167,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1_score": 0.6667,
+        "roc_auc": 0.85,
+        "confusion_matrix": [
+          [
+            10,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.0,
+            0.3,
+            0.3,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "f1-score": 0.9523809523809523,
+            "support": 10.0
+          },
+          "1": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1-score": 0.6666666666666666,
+            "support": 2.0
+          },
+          "accuracy": 0.9166666666666666,
+          "macro avg": {
+            "precision": 0.9545454545454546,
+            "recall": 0.75,
+            "f1-score": 0.8095238095238095,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.9242424242424242,
+            "recall": 0.9166666666666666,
+            "f1-score": 0.9047619047619048,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.8136,
+          "std": 0.0324
+        },
+        "f1_score": {
+          "mean": 0.0,
+          "std": 0.0
+        },
+        "roc_auc": {
+          "mean": 0.8959,
+          "std": 0.077
+        }
+      },
+      "best_model": "logistic_regression",
+      "n_samples": 59
+    },
+    {
+      "name": "vectorizer",
+      "version": 7,
+      "filename": "vectorizer_v7.pkl",
+      "path": "ml_models\\vectorizer_v7.pkl",
+      "trained_at": "2026-05-04T15:04:22.694052+00:00",
+      "n_documents": 59
+    },
+    {
+      "name": "classifier",
+      "version": 7,
+      "filename": "classifier_v7.pkl",
+      "path": "ml_models\\classifier_v7.pkl",
+      "trained_at": "2026-05-04T15:04:22.719170+00:00",
+      "metrics": {
+        "accuracy": 0.9167,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1_score": 0.6667,
+        "roc_auc": 0.85,
+        "confusion_matrix": [
+          [
+            10,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.0,
+            0.3,
+            0.3,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "f1-score": 0.9523809523809523,
+            "support": 10.0
+          },
+          "1": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1-score": 0.6666666666666666,
+            "support": 2.0
+          },
+          "accuracy": 0.9166666666666666,
+          "macro avg": {
+            "precision": 0.9545454545454546,
+            "recall": 0.75,
+            "f1-score": 0.8095238095238095,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.9242424242424242,
+            "recall": 0.9166666666666666,
+            "f1-score": 0.9047619047619048,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.8136,
+          "std": 0.0324
+        },
+        "f1_score": {
+          "mean": 0.0,
+          "std": 0.0
+        },
+        "roc_auc": {
+          "mean": 0.8959,
+          "std": 0.077
+        }
+      },
+      "best_model": "logistic_regression",
+      "n_samples": 59
+    },
+    {
+      "name": "vectorizer",
+      "version": 8,
+      "filename": "vectorizer_v8.pkl",
+      "path": "ml_models\\vectorizer_v8.pkl",
+      "trained_at": "2026-05-04T15:12:11.695457+00:00",
+      "n_documents": 60
+    },
+    {
+      "name": "classifier",
+      "version": 8,
+      "filename": "classifier_v8.pkl",
+      "path": "ml_models\\classifier_v8.pkl",
+      "trained_at": "2026-05-04T15:12:11.738659+00:00",
+      "metrics": {
+        "accuracy": 0.9167,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1_score": 0.6667,
+        "roc_auc": 0.9,
+        "confusion_matrix": [
+          [
+            10,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "roc_curve": {
+          "fpr": [
+            0.0,
+            0.0,
+            0.2,
+            0.2,
+            0.3,
+            1.0
+          ],
+          "tpr": [
+            0.0,
+            0.5,
+            0.5,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "classification_report": {
+          "0": {
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "f1-score": 0.9523809523809523,
+            "support": 10.0
+          },
+          "1": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1-score": 0.6666666666666666,
+            "support": 2.0
+          },
+          "accuracy": 0.9166666666666666,
+          "macro avg": {
+            "precision": 0.9545454545454546,
+            "recall": 0.75,
+            "f1-score": 0.8095238095238095,
+            "support": 12.0
+          },
+          "weighted avg": {
+            "precision": 0.9242424242424242,
+            "recall": 0.9166666666666666,
+            "f1-score": 0.9047619047619048,
+            "support": 12.0
+          }
+        }
+      },
+      "cv": {
+        "cv_folds": 5,
+        "accuracy": {
+          "mean": 0.8333,
+          "std": 0.0913
+        },
+        "f1_score": {
+          "mean": 0.38,
+          "std": 0.3709
+        },
+        "roc_auc": {
+          "mean": 0.8419,
+          "std": 0.2559
+        }
+      },
+      "best_model": "gradient_boosting",
+      "n_samples": 60
     }
   ]
 }

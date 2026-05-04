@@ -26,26 +26,32 @@ export default function AnalyticsPage() {
     fetchInitialData();
   }, []);
 
-  const fetchInitialData = async () => {
-    setLoading(true);
+  const fetchInitialData = async (preserveSelection = false) => {
+    if (!preserveSelection) setLoading(true);
     try {
       const [jobsRes, metricsRes, biasRes] = await Promise.all([
         api.get('/jobs'),
         api.get('/analytics/metrics'),
         api.get('/analytics/bias-report')
       ]);
-      setJobs(jobsRes.data.jobs);
+      const fetchedJobs = jobsRes.data.jobs;
+      setJobs(fetchedJobs);
       setMetrics(metricsRes.data.metrics);
       setBiasReport(biasRes.data.report);
       
-      if (jobsRes.data.jobs.length > 0) {
-        setSelectedJobId(jobsRes.data.jobs[0].id);
-        fetchClusterData(jobsRes.data.jobs[0].id);
+      if (fetchedJobs.length > 0) {
+        // If preserveSelection is true and we have a selectedJobId, check if it still exists
+        const currentId = (preserveSelection && selectedJobId) ? selectedJobId : fetchedJobs[0].id;
+        const jobExists = fetchedJobs.find(j => j.id === currentId);
+        const finalId = jobExists ? currentId : fetchedJobs[0].id;
+        
+        setSelectedJobId(finalId);
+        fetchClusterData(finalId);
       }
     } catch (err) {
       toast.error('Failed to load analytics data.');
     } finally {
-      setLoading(false);
+      if (!preserveSelection) setLoading(false);
     }
   };
 
@@ -65,7 +71,7 @@ export default function AnalyticsPage() {
     try {
       const res = await api.post('/analytics/retrain');
       toast.success('AI models successfully retrained!', { id });
-      fetchInitialData();
+      fetchInitialData(true); // Pass true to preserve current selection
     } catch (err) {
       toast.error('Retraining failed.', { id });
     } finally {

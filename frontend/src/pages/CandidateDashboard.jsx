@@ -14,6 +14,7 @@ export default function CandidateDashboard() {
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState('');
   const [selectedJob, setSelectedJob] = useState(null);
+  const [viewingJob, setViewingJob] = useState(null);
   const [resumeFile, setResumeFile] = useState(null);
   const [uploading, setUploading] = useState(false);
 
@@ -106,7 +107,12 @@ export default function CandidateDashboard() {
             {filteredJobs.map((job) => {
               const hasApplied = myApps.some(app => app.job_id === job.id);
               return (
-                <div key={job.id} className="card" style={jobCardStyle}>
+                <div 
+                  key={job.id} 
+                  className="card" 
+                  style={{ ...jobCardStyle, cursor: 'pointer' }}
+                  onClick={() => setViewingJob(job)}
+                >
                   <div style={jobInfoStyle}>
                     <div style={jobIconStyle}>
                       <Briefcase size={22} color="var(--accent-light)" />
@@ -121,7 +127,7 @@ export default function CandidateDashboard() {
                     </div>
                   </div>
                   
-                  <p style={jobDescStyle}>{job.description.substring(0, 160)}...</p>
+                  <p style={jobDescStyle}>{job.description.length > 160 ? job.description.substring(0, 160) + '...' : job.description}</p>
                   
                   <div style={jobFooterStyle}>
                     <div style={skillsWrapperStyle}>
@@ -134,7 +140,13 @@ export default function CandidateDashboard() {
                         <CheckCircle2 size={14} /> Applied
                       </div>
                     ) : (
-                      <button className="btn btn-primary btn-sm" onClick={() => setSelectedJob(job)}>
+                      <button 
+                        className="btn btn-primary btn-sm" 
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setSelectedJob(job);
+                        }}
+                      >
                         Apply Now <ChevronRight size={14} />
                       </button>
                     )}
@@ -178,11 +190,72 @@ export default function CandidateDashboard() {
         </div>
       </div>
 
+      {/* Job Detail Modal */}
+      {viewingJob && (
+        <div style={modalOverlayStyle} onClick={() => setViewingJob(null)}>
+          <div className="card animate-fade-up" style={{ ...modalContentStyle, maxWidth: '650px' }} onClick={e => e.stopPropagation()}>
+            <div className="card-header" style={{ marginBottom: 24 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+                <div style={jobIconStyle}>
+                  <Briefcase size={24} color="var(--accent-light)" />
+                </div>
+                <div>
+                  <h2 style={{ fontSize: '1.5rem', margin: 0 }}>{viewingJob.title}</h2>
+                  <div style={jobMetaStyle}>
+                    <span><MapPin size={14} /> Remote</span>
+                    <span>•</span>
+                    <span>Posted {new Date(viewingJob.created_at).toLocaleDateString()}</span>
+                  </div>
+                </div>
+              </div>
+              <button className="btn btn-icon btn-secondary" onClick={() => setViewingJob(null)}>
+                <X size={20} />
+              </button>
+            </div>
+
+            <div style={{ padding: '0 8px' }}>
+              <div style={{ marginBottom: 32 }}>
+                <h4 style={{ color: 'var(--text-primary)', marginBottom: 12, fontSize: '1.1rem' }}>Job Description</h4>
+                <div style={{ color: 'var(--text-secondary)', lineHeight: 1.8, fontSize: '0.95rem', whiteSpace: 'pre-wrap' }}>
+                  {viewingJob.description}
+                </div>
+              </div>
+
+              <div style={{ marginBottom: 32 }}>
+                <h4 style={{ color: 'var(--text-primary)', marginBottom: 12, fontSize: '1.1rem' }}>Required Skills</h4>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
+                  {viewingJob.required_skills.map((skill, idx) => (
+                    <span key={idx} className="skill-tag" style={{ padding: '6px 14px', fontSize: '0.85rem' }}>{skill}</span>
+                  ))}
+                </div>
+              </div>
+
+              <div style={{ display: 'flex', gap: 12, marginTop: 40, borderTop: '1px solid var(--border)', paddingTop: 24 }}>
+                <button className="btn btn-secondary btn-full" onClick={() => setViewingJob(null)}>
+                  Close Window
+                </button>
+                {!myApps.some(app => app.job_id === viewingJob.id) && (
+                  <button 
+                    className="btn btn-primary btn-full" 
+                    onClick={() => {
+                      setSelectedJob(viewingJob);
+                      setViewingJob(null);
+                    }}
+                  >
+                    Apply Now
+                  </button>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Apply Modal */}
       {selectedJob && (
         <div style={modalOverlayStyle}>
           <div className="card animate-fade-up" style={modalContentStyle}>
-            <div className="card-header">
+            <div className="card-header" style={{ marginBottom: 24 }}>
               <h3 className="card-title">Apply for {selectedJob.title}</h3>
               <button className="btn btn-icon btn-secondary" onClick={() => setSelectedJob(null)}>
                 <X size={18} />
